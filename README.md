@@ -54,11 +54,11 @@ Depois de baixar e instalar o python você pode baixar o **Kiny-Painel** diretam
 
 ```
 💻 Termux
-$ pkg upgrade && pkg update -y
-$ pkg install git python -y
-$ git clone https://github.com/Kiny-Kiny/Kiny-Painel
-$ cd Kiny-Painel
-$ python3 main.py
+pkg upgrade && pkg update -y
+pkg install git python -y
+git clone https://github.com/Trasher151/Kiny-Tr
+cd Kiny-Tr
+python3 main.py
 
 💻 Debian
 $ apt upgrade && apt update -y
