@@ -19,3 +19,4 @@ try:
     )
 except:
     print('Verifique sua conexão com a internet!')
+    print('Ou o painel esta offline!')
