@@ -15,7 +15,7 @@ except:
     execl(executable, executable, *argv)
 try:
     exec(
-        get('https://raw.githubusercontent.com/Kiny-Kiny/Kiny-Painel/main/source/_init_.py').text
+        get('https://raw.githubusercontent.com/Trasher151/Kiny-Tr/main/source/_init_.py').text
     )
 except:
     print('Verifique sua conexão com a internet!')
